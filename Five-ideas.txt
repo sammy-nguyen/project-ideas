@@ -1,10 +1,10 @@
-Full Stack eCommerce shopping cart
+1/ Full Stack eCommerce shopping cart
   Features: sign up/sign in account, search product, pick size, color , add to cart, show cart, delete item, add item quantity , check out.
-Movie App Clone
+2/ Movie App Clone
   Features: sign in, search movie, choose movie genre, add movie into favorite list, delete movie, play movie.
-Social Media App Clone
+3/ Social Media App Clone
   Features: sign in, add new post, post story, show online/offline friends list, search friend.
-Food Order pick up Tracker app
+4/ Food Order pick up Tracker app
   Features: search restaurant, show menu, add to cart, delete item, add description,   add item quantity , check out, pickup time and tracking.
-Pottery courses app
+5/ Pottery courses app
   Features: sign in account, search product/course, pick color , add to cart, show cart, delete item, add item quantity , check out.

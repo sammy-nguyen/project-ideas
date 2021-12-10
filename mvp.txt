@@ -1,0 +1,9 @@
+Pitch/idea: E-commerce shopping website
+
+- Users can search the product
+- Users can add products into shopping cart ( the cart item on the upper right can show the number of products)
+- Users can delete products
+- Users can increase/decrease the quantity of products
+- Users can see the final total after deleting/ increasing / decreasing
+- Users can choose check out as a guest or create account
+- Users can check out with card (includes card number, expire date and security code)
